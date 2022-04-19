@@ -1,0 +1,8 @@
+Create a Screen
+Score Board
+Paddles
+Collison with the side
+Moving the ball constantly
+Move the paddle
+Detect Paddle Collison
+Detect Paddle missing the ball
